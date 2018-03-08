@@ -5,14 +5,14 @@ div.gallarey{
 	border:1px solid black;
 	float:left;
 	margin:5px;
-	width:100%;
+	width:50%;
 
 }
 div.gallarey:hover {
 	border:1px solid black;
 }
 div.gallarey img{
-	width:50%;
+	width:100%;
 	height:auto;
 }
 div.des{
