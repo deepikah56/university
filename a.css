@@ -1,0 +1,13 @@
+body{
+	background-image:url("/home/qwinix/Desktop/download (2).jpg");
+	background-repeat: no-repeat;
+	background-size: 1300px 1000px;
+	background-attachment: fixed;
+	background-position: center;
+}
+label , input[type="text"]{
+	border-width:5px;
+	text-align: center;
+	width:50%;
+	
+}

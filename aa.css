@@ -1,0 +1,11 @@
+body{
+	background-image: url("/home/qwinix/Desktop/mysore_univ.jpg" );
+	background-repeat:no-repeat;
+	background-size: 1300px 400px;
+	background-attachment: fixed;
+	
+}
+p{
+	padding-top:400px;
+
+}
